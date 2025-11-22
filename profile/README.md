@@ -1,4 +1,4 @@
-# 🎮 JlyEngine
+# JlyEngine
 
 **Visual Game Editor for Mobile & Web**
 
@@ -21,18 +21,18 @@ Export directly to the web or DroidScript (SPK)
 - 🔧 Real-time property editing
 - 📐 Precision transform handles
 
-### JavaScript-Powered Logic
+<!--### JavaScript-Powered Logic
 - 💻 Full JavaScript ES6+ support
 - ⚡ Event-driven architecture
 - 🎯 Component-based scripting
-
+-->
 ### Multi-Platform Export
 - 🌐 **Web (HTML5)** - Standalone games
 - 📱 **DroidScript (SPK)** - Android deployment
 - 📦 **Optimized bundles** 
 
 
-## 🎯 Project Status
+## Project Status
 
 **Current Phase: Pre-MVP Development**
 
